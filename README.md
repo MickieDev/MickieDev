@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1>👋 Hi, I’m Mickie.</h1>
+<br>
 
-<!--
-**KhathathonNissayan/KhathathonNissayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=KhathathonNissayan&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
-Here are some ideas to get you started:
+<h1>Skills</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vue,git,github)](https://skillicons.dev)
+
+
+<h1>Other Skills</h1>
+
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,pr,ae,blender)](https://skillicons.dev)
+
+<h3>📫 How to reach me email : knissayan@gmail.com </h3>
