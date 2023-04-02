@@ -5,7 +5,7 @@
 
 <h1>Skills</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vue,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,github)](https://skillicons.dev)
 
 
 <h1>Other Skills</h1>
